@@ -139,5 +139,7 @@ configs/secrets.yaml
 
 # add your env folder here if its there
 
+# Dont want to upload the mlruns folder
 
+mlruns/
 
